@@ -1,0 +1,32 @@
+form: flex-pages
+id: 'tmp://forms/session/606bb8a4fcf76509d0fae10252e49d81'
+unique_id: 606bb8a4fcf76509d0fae10252e49d81
+url: '/pages/work/:add'
+user:
+  username: son
+  email: son@sntrpc.com
+timestamps:
+  created: 1679296012
+  updated: 1679296012
+data: null
+files: {  }
+object:
+  type: pages
+  key: work
+  storage_key: ''
+  timestamp: 0
+  serialized:
+    __META: {  }
+    storage_key: ''
+    parent_key: ''
+    order: '03.'
+    folder: work
+    template: default
+    lang: ''
+    root: false
+    route: /
+    name: default
+    header:
+      title: Work
+      date: '02:06 20-03-2023'
+    frontmatter: "title: Work\ndate: '02:06 20-03-2023'\n"

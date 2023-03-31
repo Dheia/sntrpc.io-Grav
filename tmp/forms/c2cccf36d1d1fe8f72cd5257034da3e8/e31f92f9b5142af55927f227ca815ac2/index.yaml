@@ -1,0 +1,34 @@
+form: flex-pages
+id: 'tmp://forms/session/e31f92f9b5142af55927f227ca815ac2'
+unique_id: e31f92f9b5142af55927f227ca815ac2
+url: '/pages/_work/:add'
+user:
+  username: son
+  email: son@sntrpc.com
+timestamps:
+  created: 1679295789
+  updated: 1679295789
+data: null
+files: {  }
+object:
+  type: pages
+  key: _work
+  storage_key: ''
+  timestamp: 0
+  serialized:
+    __META: {  }
+    storage_key: ''
+    parent_key: ''
+    order: false
+    folder: _work
+    template: gallery
+    lang: ''
+    root: false
+    route: /
+    name: modular/gallery
+    modular: '1'
+    header:
+      title: Work
+      body_classes: modular
+      date: '02:03 20-03-2023'
+    frontmatter: "title: Work\nbody_classes: modular\ndate: '02:03 20-03-2023'\n"

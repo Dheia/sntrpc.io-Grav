@@ -1,0 +1,64 @@
+form: flex-pages-raw
+id: 'tmp://forms/session/67e92c8765a9bc7fb2d335c459de9eb5'
+unique_id: 67e92c8765a9bc7fb2d335c459de9eb5
+url: 'https://sntrpc.com/stage/admin/pages/work'
+user:
+  username: son
+  email: son@sntrpc.com
+timestamps:
+  created: 1679701566
+  updated: 1679701686
+data:
+  frontmatter: "---\ntitle: Work\ndate: '15:22 24-03-2023'\nlogin:\n    visibility_requires_access: true\naccess:\n    site.login: true\n    admin.login: true\npermissions:\n    inherit: true\n\nmenu: Work\nonpage_menu: true\nbody_classes: \"modular header-image fullwidth\"\n\ncontent:\n    items: '@self.modular'\n    order:\n        by: default\n        dir: asc\n        custom:\n            -_ir\n---"
+  content: "#Welcome to the Ril#\n\nIR | Poser | "
+  ordering: true
+  folder: work
+  route: null
+  name: default
+  order: null
+  blueprint: null
+  header:
+    content:
+      items: '@self.modular'
+    media_order: null
+  xss_check: null
+files: {  }
+object:
+  type: pages
+  key: work
+  storage_key: work
+  timestamp: 1679696630
+  serialized:
+    __META:
+      key: work
+      storage_key: work
+      template: default
+      storage_timestamp: 1679696630
+      markdown:
+        '': { default: 1679696367 }
+      children:
+        _ir: false
+      checksum: 780cbc7d3160d1180b5fea0732eedbbf
+    storage_key: work
+    parent_key: ''
+    order: false
+    folder: work
+    template: default
+    lang: ''
+    header:
+      title: Work
+      date: '15:22 24-03-2023'
+      login:
+        visibility_requires_access: true
+      access:
+        site.login: true
+        admin.login: true
+      permissions:
+        inherit: true
+      content:
+        items: '@self.modular'
+    root: false
+    frontmatter: "title: Work\ndate: '15:22 24-03-2023'\nlogin:\n    visibility_requires_access: true\naccess:\n    site.login: true\n    admin.login: true\npermissions:\n    inherit: true\ncontent:\n    items: '@self.modular'"
+    markdown: "#Welcome to the Ril#\n\nIR | Poser | "
+    slug: work
+    name: default.md

@@ -1,0 +1,40 @@
+<?php
+return [
+    '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
+    'filename' => '/home3/sntrpcco/public_html/dev/user/config/themes/quark.yaml',
+    'modified' => 1680280001,
+    'size' => 736,
+    'data' => [
+        'enabled' => true,
+        'production-mode' => true,
+        'grid-size' => 'grid-lg',
+        'header-fixed' => false,
+        'header-animated' => true,
+        'header-dark' => false,
+        'header-transparent' => false,
+        'sticky-footer' => false,
+        'blog-page' => '/blog',
+        'spectre' => [
+            'exp' => false,
+            'icons' => false
+        ],
+        'custom_logo' => [
+            'user/themes/quark/images/logo/sin W77x5_YZ_400x400.jpg' => [
+                'name' => 'sin W77x5_YZ_400x400.jpg',
+                'full_path' => 'sin W77x5_YZ_400x400.jpg',
+                'type' => 'image/jpeg',
+                'size' => 34903,
+                'path' => 'user/themes/quark/images/logo/sin W77x5_YZ_400x400.jpg'
+            ]
+        ],
+        'custom_logo_mobile' => [
+            'user/themes/quark/images/logo/sin W77x5_YZ_400x400.jpg' => [
+                'name' => 'sin W77x5_YZ_400x400.jpg',
+                'full_path' => 'sin W77x5_YZ_400x400.jpg',
+                'type' => 'image/jpeg',
+                'size' => 34903,
+                'path' => 'user/themes/quark/images/logo/sin W77x5_YZ_400x400.jpg'
+            ]
+        ]
+    ]
+];

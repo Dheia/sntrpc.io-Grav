@@ -1,0 +1,101 @@
+form: flex-pages
+id: 'tmp://forms/session/876e76a2d3d5aaa7f2eb19c8ac527e18'
+unique_id: 876e76a2d3d5aaa7f2eb19c8ac527e18
+url: 'https://sntrpc.com/stage/admin/pages/home/work'
+user:
+  username: son
+  email: son@sntrpc.com
+timestamps:
+  created: 1679689255
+  updated: 1679689255
+data:
+  header:
+    title: Work
+    media_order: null
+    date: '07:33 24-03-2023'
+    body_classes: null
+    order_by: null
+    order_manual: null
+    login:
+      visibility_requires_access: true
+    access:
+      site.login: true
+      admin.login: true
+    content:
+      items: '@self.modular'
+    published: null
+    publish_date: null
+    unpublish_date: null
+    metadata: null
+    taxonomy: null
+    dateformat: null
+    menu: null
+    slug: null
+    redirect: null
+    process: null
+    twig_first: null
+    never_cache_twig: null
+    child_type: null
+    routable: null
+    cache_enable: null
+    visible: null
+    debugger: null
+    template: null
+    append_url_extension: null
+    redirect_default_route: null
+    routes:
+      default: null
+      canonical: null
+      aliases: null
+    admin:
+      children_display_order: null
+    permissions:
+      inherit: null
+      authors: null
+      groups: null
+  content: "## <p> IR </p> ##\n<p> InterReaction (IR)  </p>\n### <p> ILY </p> ###\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/videoseries?list=PLKnyoOx8o006VkY46Wn7F1OX08fU7aDmt\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+  folder: work
+  route: /
+  name: default
+  ordering: true
+  order: null
+  blueprint: null
+  lang: null
+  xss_check: null
+  _post_entries_save: null
+files: {  }
+object:
+  type: pages
+  key: home/work
+  storage_key: 01.home/01.work
+  timestamp: 1679687962
+  serialized:
+    __META:
+      key: home/work
+      storage_key: 01.home/01.work
+      template: default
+      storage_timestamp: 1679687962
+      markdown:
+        '': { default: 1679687962 }
+      checksum: db2843c3da03346e0d3b42584bc7ab52
+    storage_key: 01.home/01.work
+    parent_key: 01.home
+    order: '01.'
+    folder: work
+    template: default
+    lang: ''
+    header:
+      title: Work
+      date: '07:33 24-03-2023'
+      login:
+        visibility_requires_access: true
+      access:
+        site.login: true
+        admin.login: true
+      content:
+        items: '@self.modular'
+    root: false
+    frontmatter: "title: Work\ndate: '07:33 24-03-2023'\nlogin:\n    visibility_requires_access: true\naccess:\n    site.login: true\n    admin.login: true\ncontent:\n    items: '@self.modular'"
+    markdown: "## <p> IR </p> ##\n<p> InterReaction (IR)  </p>\n### <p> ILY </p> ###\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/videoseries?list=PLKnyoOx8o006VkY46Wn7F1OX08fU7aDmt\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+    slug: work
+    name: default.md
